@@ -17,6 +17,19 @@
         }
     }
 
+    .diagram-only {
+        .diagrams {
+            width: 100%;
+            float: left;
+
+            img {
+                margin: 0% auto 20px auto;
+                display: block;
+                width: 600px;
+            }
+        }
+    }
+
     // import per-page SCSS files here
     //@import '_solutions';
 

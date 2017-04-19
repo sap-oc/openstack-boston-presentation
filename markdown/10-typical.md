@@ -2,13 +2,29 @@
 # Typical Vendor-Customer Relationships
 
 
-<!-- .slide: data-state="normal" id="SAP-support-pipeline" class="diagram-and-list" data-timing="120" -->
-## SAP / SUSE support pipeline
+<!-- .slide: data-state="normal" id="SAP-support-pipeline" class="diagram-only" data-timing="120" -->
+## SAP/SUSE support
 
 <div class="diagrams">
-    <img class="services" data-src="images/pipeline.svg"
+    <img class="services" data-src="images/suse_sap_workflow_1.svg"
          alt="SAP / SUSE support pipeline" />
 </div>
 
-*   Foo
-*   Bar
+
+<!-- .slide: data-state="normal" id="SAP-support-pipeline2" class="diagram-only" data-timing="120" -->
+## SAP/SUSE support
+
+<div class="diagrams">
+    <img class="services" data-src="images/suse_sap_workflow_2.svg"
+         alt="SAP / SUSE support pipeline" />
+</div>
+
+
+
+<!-- .slide: data-state="normal" id="SAP-support-pipeline3" class="diagram-only" data-timing="120" -->
+## SAP/SUSE support
+
+<div class="diagrams">
+    <img class="services" data-src="images/suse_sap_workflow_3.svg"
+         alt="SAP / SUSE support pipeline" />
+</div>
