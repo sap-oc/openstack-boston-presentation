@@ -55,13 +55,20 @@ owners.
     <h2>Subhead or Second Line</h2>
 </div>
 
-<div class="presenter">
-    <h3 class="name">Presenter Name</h3>
-    <h3 class="job-title">Job Title</h3>
-    <h3 class="email"><a href="mailto:firstname.lastname@suse.com">firstname.lastname@suse.com</a></h3>
+<div class="row presenters">
+    <div class="presenter presenter-1">
+        <h3 class="name">First Presenter's Name</h3>
+        <h3 class="job-title">Job Title</h3>
+        <h3 class="email"><a href="mailto:firstname.lastname@suse.com">firstname.lastname@suse.com</a></h3>
+    </div>
+    <div class="presenter presenter-2">
+        <h3 class="name">Second Presenter's Name</h3>
+        <h3 class="job-title">Job Title</h3>
+        <h3 class="email"><a href="mailto:firstname.lastname@suse.com">firstname.lastname@suse.com</a></h3>
+    </div>
 </div>
 
-<div class="warning-footer">
+<div class="internal-use-footer" style="text-align: center;">
     For Internal Use Only
 </div>
 
@@ -70,6 +77,10 @@ owners.
 ## Internal slide title
 
 *   First-level bullet
+
+<div class="internal-use-footer">
+    For Internal Use Only
+</div>
 
 
 <!-- .slide: data-menu-title="License" id="license" data-state="blank-slide" -->
