@@ -30,7 +30,7 @@
     </div>
     <div class="presenter presenter-2">
         <h3 class="name">Marc Koderer</h3>
-        <h3 class="job-title">FIXME, SAP</h3>
+        <h3 class="job-title">OpenStack Evangelist, SAP</h3>
         <h3 class="email"><a href="mailto:marc.koderer@sap.com">marc.koderer@sap.com</a></h3>
     </div>
 </div>
