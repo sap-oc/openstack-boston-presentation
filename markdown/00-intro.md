@@ -32,3 +32,26 @@
 *   Our solution
 *   Future work
 *   Summary
+
+
+<!-- .slide: data-state="section-break" id="SAP-SUSE-intro" data-timing="5" -->
+## Setting the scene:
+# OpenStack at SAP and SUSE
+
+
+<!-- .slide: data-state="normal" id="SAP-cloud-platform" data-timing="30" -->
+# SAP Cloud Platform and OpenStack strategy
+
+FIXME
+
+
+<!-- .slide: data-state="normal" id="SUSE-OpenStack-Cloud" data-timing="30" -->
+# SUSE OpenStack Cloud
+
+FIXME: add screenshot
+
+Note:
+
+- Enterprise distribution of OpenStack
+- F/OSS
+- Includes deployment / management capabilities
