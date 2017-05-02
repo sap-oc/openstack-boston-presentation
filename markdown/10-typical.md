@@ -7,6 +7,7 @@
 
 <div class="diagrams">
     <img class="services" data-src="images/suse_sap_workflow_1.svg"
+         style="width: 100%; bottom: 0;"
          alt="SAP / SUSE support pipeline" />
 </div>
 
@@ -16,6 +17,7 @@
 
 <div class="diagrams">
     <img class="services" data-src="images/suse_sap_workflow_2.svg"
+         style="width: 100%; bottom: 0;"
          alt="SAP / SUSE support pipeline" />
 </div>
 
@@ -26,5 +28,6 @@
 
 <div class="diagrams">
     <img class="services" data-src="images/suse_sap_workflow_3.svg"
+         style="width: 100%; bottom: 0;"
          alt="SAP / SUSE support pipeline" />
 </div>
