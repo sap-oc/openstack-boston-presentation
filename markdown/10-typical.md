@@ -12,7 +12,7 @@
 </div>
 
 
-<!-- .slide: data-state="normal" id="SAP-support-pipeline2" class="diagram-only" data-timing="120" -->
+<!-- .slide: data-state="normal" id="SAP-support-pipeline2" class="diagram-only" data-menu-title="SAP/SUSE support 2" data-timing="120" -->
 ## SAP/SUSE support
 
 <div class="diagrams">
@@ -22,8 +22,7 @@
 </div>
 
 
-
-<!-- .slide: data-state="normal" id="SAP-support-pipeline3" class="diagram-only" data-timing="120" -->
+<!-- .slide: data-state="normal" id="SAP-support-pipeline3" class="diagram-only" data-menu-title="SAP/SUSE support 3" data-timing="120" -->
 ## SAP/SUSE support
 
 <div class="diagrams">

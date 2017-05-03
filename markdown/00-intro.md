@@ -34,12 +34,12 @@
 *   Summary
 
 
-<!-- .slide: data-state="section-break" id="SAP-SUSE-intro" data-timing="5" -->
+<!-- .slide: data-state="section-break" id="SAP-SUSE-intro" data-menu-title="OpenStack at SAP/SUSE" data-timing="5" -->
 ## Setting the scene:
 # OpenStack at SAP and SUSE
 
 
-<!-- .slide: data-state="normal" id="SAP-cloud-platform" data-timing="30" -->
+<!-- .slide: data-state="normal" id="SAP-cloud-platform" data-menu-title="SAP cloud strategy" data-timing="30" -->
 # SAP Cloud Platform and OpenStack strategy
 
 FIXME

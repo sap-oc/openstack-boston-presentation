@@ -1,5 +1,5 @@
-<!-- .slide: data-state="normal" id="issues" data-timing="120" -->
-## Issues
+<!-- .slide: data-state="normal" id="issues" data-menu-title="Issues" data-timing="120" -->
+## Issues with the standard support relationship
 
 *   Lack of transparency
 *   Latency of support channels
@@ -10,10 +10,6 @@ Note:
 
 - Communication happening in multiple places:
   voice, email, IRC, phone, bugzilla, service request database
-
-
-<!-- .slide: data-state="section-break" id="real-world-example" data-menu-title="Real world example" data-timing="120" -->
-# Real world example
 
 
 <!-- .slide: data-state="normal" id="catastrophe" data-menu-title="Real world example" data-timing="120" -->
