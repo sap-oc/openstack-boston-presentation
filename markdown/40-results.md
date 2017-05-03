@@ -31,6 +31,11 @@ Friday April 28 morning
      alt="Load average during outage" />
 
 
+<!-- .slide: data-state="blank-slide" class="full-screen" id="recent-outage-2-graph-2" data-menu-title="Load average graphs" data-timing="120" -->
+<img data-src="images/outage-UDPv6.png"
+     alt="UDPv6 traffic spike during outage" />
+
+
 <!-- .slide: data-state="normal" id="recent-outage-2-rca" data-menu-title="RCA" data-timing="120" -->
 # Example 2: recent outage
 
