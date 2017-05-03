@@ -1,14 +1,9 @@
-<!-- .slide: data-state="section-break" data-menu-title="Q & A" id="Q-and-A" data-timing="300" -->
+<!-- .slide: data-state="normal" id="questions" data-menu-title="Q & A" data-timing="300" -->
 # Questions?
 
-
-<!-- .slide: data-menu-title="intel disclaimer" id="intel-disclaimer" data-state="normal" -->
-##Legal Notices and Disclaimers
-* Intel technologies’ features and benefits depend on system configuration and may require enabled hardware, software or service activation. Learn more at intel.com, or from the OEM or retailer.
-* No computer system can be absolutely secure.
-* Tests document performance of components on a particular test, in specific systems. Differences in hardware, software, or configuration will affect actual performance. Consult other sources of information to evaluate performance as you consider your purchase.  For more complete information about performance and benchmark results, visit http://www.intel.com/performance.
-* Intel, the Intel logo and others are trademarks of Intel Corporation in the U.S. and/or other countries. *Other names and brands may be claimed as the property of others.
-* © 2016 Intel Corporation.
+<div class="qrcode" id="qrcode-talk-end"/>
+<h3><a href="https://sap-oc.github.io/openstack-boston-presentation/" target="_blank"
+       id="talk-end">https://sap-oc.github.io/openstack-boston-presentation/</a></h3>
 
 
 <!-- .slide: data-menu-title="Disclaimers" id="disclaimers" data-state="green-bg" -->
@@ -43,50 +38,3 @@ referenced in this presentation are trademarks or registered
 trademarks of Novell, Inc. in the United States and other countries.
 All third-party trademarks are the property of their respective
 owners.
-
-
-<!-- .slide: data-state="section-break" id="internal-use-slides" data-timing="10s" -->
-# Internal Use Slides
-
-
-<!-- .slide: data-state="cover" id="internal-cover-page" data-timing="20" -->
-<div class="title">
-    <h1>Presentation Title</h1>
-    <h2>Subhead or Second Line</h2>
-</div>
-
-<div class="row presenters">
-    <div class="presenter presenter-1">
-        <h3 class="name">First Presenter's Name</h3>
-        <h3 class="job-title">Job Title</h3>
-        <h3 class="email"><a href="mailto:firstname.lastname@suse.com">firstname.lastname@suse.com</a></h3>
-    </div>
-    <div class="presenter presenter-2">
-        <h3 class="name">Second Presenter's Name</h3>
-        <h3 class="job-title">Job Title</h3>
-        <h3 class="email"><a href="mailto:firstname.lastname@suse.com">firstname.lastname@suse.com</a></h3>
-    </div>
-</div>
-
-<div class="internal-use-footer" style="text-align: center;">
-    For Internal Use Only
-</div>
-
-
-<!-- .slide: data-state="normal" id="internal-normal-slide" data-timing="20s" data-menu-title="Internal text slide" -->
-## Internal slide title
-
-*   First-level bullet
-
-<div class="internal-use-footer">
-    For Internal Use Only
-</div>
-
-
-<!-- .slide: data-menu-title="License" id="license" data-state="blank-slide" -->
-<div class="full-slide vcenter">
-    <img data-src="images/by-sa.svg"
-         alt="Creative Commons BY-SA license" />
-</div>
-
-Note: Add conclusion notes here.
