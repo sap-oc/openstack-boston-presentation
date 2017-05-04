@@ -45,10 +45,8 @@
 FIXME
 
 
-<!-- .slide: data-state="normal" id="SUSE-OpenStack-Cloud" data-timing="30" -->
-# SUSE OpenStack Cloud
-
-FIXME: add screenshot
+<!-- .slide: data-state="blank-slide" class="full-screen" id="SUSE-OpenStack-Cloud" data-timing="30" -->
+<img data-src="images/SOC.png" alt="SUSE OpenStack Cloud website" />
 
 Note:
 
