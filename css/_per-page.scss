@@ -1,4 +1,22 @@
 .reveal .slides {
+
+    #issues {
+        p {
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+
+        img {
+            display: flex;
+            max-height: 25%;
+            max-width: 25%;
+            margin: 0.5em;
+        }
+    }
+
     .diagram-and-list {
         .diagrams {
             width: 45%;

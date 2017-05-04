@@ -1,15 +1,19 @@
 <!-- .slide: data-state="normal" id="issues" data-menu-title="Issues" data-timing="120" -->
 ## Issues with the standard support relationship
 
+<img class="fragment" data-src="images/on-hold.jpg" alt="Fed up of being on hold" />
+<img class="fragment" data-src="images/black-box.png" alt="Black box" />
+<img class="fragment" data-src="images/influence.jpg" alt="Influence" />
+<img class="fragment" data-src="images/agile-dog.jpg" alt="Show-jumping dog fail" />
+
+Note:
+
+*   Communication happening in multiple places:
+    voice, email, IRC, phone, bugzilla, service request database
 *   Lack of transparency
 *   Latency of support channels
 *   Not enough agility in short-term
 *   Not enough influence over long-term roadmap
-
-Note:
-
-- Communication happening in multiple places:
-  voice, email, IRC, phone, bugzilla, service request database
 
 
 <!-- .slide: data-state="normal" id="catastrophe" data-menu-title="Real world example" data-timing="120" -->
