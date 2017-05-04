@@ -18,17 +18,18 @@ Note:
 Tuesday December 6th
 
 <blockquote class="fragment">
+<p>
 
 During the maint. window at SAP on [Saturday] Dec. 3rd there suddenly
 occurred a massive networking disruption in OpenStack which made
 communication between VMs on the same tenant network impossible.
 
-<br />
+</p><p>
 
 The cause were vanished OVS flows which could be re-established only
 after restarting nova and ovs on all compute nodes.
 
-<br />
+</p><p>
 
 SAP requested an RCA until Wednesday as to why this has happened.
 
