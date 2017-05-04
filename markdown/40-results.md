@@ -40,5 +40,5 @@ Friday April 28 morning
 # Example 2: recent outage
 
 *   Identified unusual peaks in NFS traffic
-*   Traced back to issue with NetApp filers
+*   Traced back to issue with NFS servers
 
