@@ -5,7 +5,6 @@ joint SUSE/SAP talk at the OpenStack 2017 summit in Boston, entitled
 "Successfully Redefining a Vendor-Customer Relationships in a DevOps
 World".
 
-
 It is based on
 [a template by Adam Spiers](https://github.com/aspiers/presentation-template/)
 which is in turn based on
@@ -17,6 +16,10 @@ technology.
 **You can
 [view the slides online](http://sap-oc.github.io/openstack-boston-presentation/)
 here**; press `Space` to advance 1 slide at a time, or `?` for help.
+
+## How to use
+
+See [the USAGE.md file](USAGE.md).
 
 ## Feedback
 
