@@ -1,10 +1,32 @@
 <!-- .slide: data-state="normal" id="issues" data-menu-title="Issues" data-timing="120" -->
 ## Issues with the standard support relationship
 
-<img class="fragment" data-src="images/on-hold.jpg" alt="Fed up of being on hold" />
-<img class="fragment" data-src="images/black-box.png" alt="Black box" />
-<img class="fragment" data-src="images/influence.jpg" alt="Influence" />
-<img class="fragment" data-src="images/agile-dog.jpg" alt="Show-jumping dog fail" />
+<div class="container">
+  <div class="item">
+    <figure class="fragment">
+        <img data-src="images/on-hold.jpg" alt="Fed up of being on hold" />
+        <figcaption>Latency</figcaption>
+    </figure>
+  </div>
+  <div class="item">
+    <figure class="fragment">
+        <img data-src="images/black-box.png" alt="Black box" />
+        <figcaption>Visibility</figcaption>
+    </figure>
+  </div>
+  <div class="item">
+    <figure class="fragment">
+        <img data-src="images/agile-dog.jpg" alt="Show-jumping dog fail" />
+        <figcaption>Agility</figcaption>
+    </figure>
+  </div>
+  <div class="item">
+    <figure class="fragment">
+        <img data-src="images/influence.jpg" alt="Influence" />
+        <figcaption>Roadmap</figcaption>
+    </figure>
+  </div>
+</div>
 
 Note:
 
