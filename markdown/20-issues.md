@@ -19,12 +19,10 @@ Note:
 <!-- .slide: data-state="normal" id="catastrophe" data-menu-title="Real world example" data-timing="120" -->
 ## Real world <del>example</del>catastrophe
 
-Tuesday December 6th
-
 <blockquote class="fragment">
 <p>
 
-During the maint. window at SAP on [Saturday] Dec. 3rd there suddenly
+During the maint. window at SAP on Saturday there suddenly
 occurred a massive networking disruption in OpenStack which made
 communication between VMs on the same tenant network impossible.
 
@@ -47,7 +45,7 @@ Note:
 <!-- .slide: data-state="normal" id="outage" data-menu-title="Outage details" data-timing="120" -->
 ## Details of maintenance and outage
 
-### Sat Dec 3: morning maintenance window
+### Saturday morning maintenance window
 
 *   SUSE engineer (Adam) on hand
 *   no console access, only screensharing
@@ -70,14 +68,14 @@ assistance.
 <!-- .slide: data-state="normal" id="timeline" data-menu-title="Timeline" data-timing="120" -->
 ## Timeline of analysis
 
-*   Sat Dec  3: maintenance window and outage
-*   Mon Dec  5: SUSE support started collecting logs
-*   Tue Dec  6: initial analysis with OVS experts
-*   Wed Dec  7: call with SAP to share findings
-*   Fri Dec  9: SUSE-only sync call
-*   Mon Dec 12: Vincent assigned as escalation manager
-*   Thu Dec 15: SUSE / SAP sync call
-*   Thu Dec 21: final RCA delivered
+*   Day 0: maintenance window and outage
+*   Day 2: SUSE support started collecting logs
+*   Day 3: initial analysis with OVS experts
+*   Day 4: call with SAP to share findings
+*   Day 6: SUSE-only sync call
+*   Day 9: Vincent assigned as escalation manager
+*   Day 12: SUSE / SAP sync call
+*   Day 20: final RCA delivered
 
 
 <!-- .slide: data-state="normal" id="RCA" data-menu-title="RCA" data-timing="120" -->
