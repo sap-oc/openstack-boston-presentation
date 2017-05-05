@@ -53,7 +53,7 @@ SUSE engineers now have much better understanding of SAP pain:
 
 
 <!-- .slide: data-state="normal" id="partner-access" data-menu-title="Partner access" data-timing="120" -->
-# SAP "C-user" accounts for partners
+# SAP accounts for partners
 
 Access to SAP network including production cloud
 
