@@ -44,7 +44,7 @@ Note:
 <blockquote class="fragment">
 <p>
 
-During the maint. window at SAP on Saturday there suddenly
+During the maintenance window at SAP on Saturday there suddenly
 occurred a massive networking disruption in OpenStack which made
 communication between VMs on the same tenant network impossible.
 
