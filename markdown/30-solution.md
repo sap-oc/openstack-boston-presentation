@@ -5,29 +5,45 @@
 <!-- .slide: data-state="normal" id="solution-overview" data-menu-title="Overview" data-timing="120" -->
 # Solution overview
 
-### Outcome from 2-day joint meeting in Walldorf:
+### 2-day joint meeting in Walldorf <!-- .element: class="fragment" -->
 
-*   Joint engineering team
+Outcome: <!-- .element: class="fragment" -->
+
+*   <!-- .element: class="fragment" -->
+    Joint engineering team
     *   Dedicated people from both sides
-*   Based on agile practices
+*   <!-- .element: class="fragment" -->
+    Adopt agile practices
     *   Standups
     *   Backlog
     *   Testing and CI
-*   Everything gets fed back into normal
-    SUSE OpenStack Cloud product
+*   <!-- .element: class="fragment" -->
+    SAP-specific "friendly fork" of SUSE OpenStack Cloud
+*   <!-- .element: class="fragment" -->
+    Everything gets fed back into normal codebase
+
+Note: We needed to avoid long-term divergence from the SOC
+codebase to avoid doubling maintenance overheads.
 
 
 <!-- .slide: data-state="normal" id="github-org" data-timing="120" -->
-## Shared GitHub organization
+## New shared GitHub organization
 
-*   [Organization](https://github.com/orgs/sap-oc/)
-    hosts forks of product repositories
-*   Dedicated branches to queue changes for next deployment
+https://github.com/sap-oc/
+
+*   <!-- .element: class="fragment" -->
+    Hosts forks of product repositories
+*   <!-- .element: class="fragment" -->
+    Dedicated branches to queue changes for next deployment
     to each prod/test cloud
-*   Tag per deployment per cloud
+*   <!-- .element: class="fragment" -->
+    Tag per deployment per cloud
     (typically one per maintenance window)
-*   Issue trackers in each repository
-*   [Project board](https://github.com/orgs/sap-oc/projects/1)
+*   <!-- .element: class="fragment" -->
+    Issue trackers in each repository
+*   <!-- .element: class="fragment" --> [GitHub
+    project](https://github.com/orgs/sap-oc/projects/1)
+    (kanban board)
 
 
 <!-- .slide: data-state="normal" id="communication" data-timing="120" -->
