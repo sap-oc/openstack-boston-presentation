@@ -94,14 +94,13 @@ SUSE engineers now have much better understanding of SAP pain:
 <!-- .slide: data-state="normal" id="partner-access" data-menu-title="Partner access" data-timing="120" -->
 # SAP accounts for partners
 
-Access to SAP network including production cloud
-
-FIXME: replace with large access icon, e.g. key
+<img data-src="images/RSA-token.png" alt="RSA token" />
 
 Note:
 
-Benefits:
+Access to SAP network including production cloud
 
+Benefits:
 -   SUSE engineers can examine production cloud directly
 -   No need to waste time collecting logs
 -   More in-depth examination possible
