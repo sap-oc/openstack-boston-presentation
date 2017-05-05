@@ -9,7 +9,7 @@
 
 *   Joint engineering team
     *   Dedicated people from both sides
-*   Based on agile methodologies
+*   Based on agile practices
     *   Standups
     *   Backlog
     *   Testing and CI
@@ -76,6 +76,7 @@ Facilitate faster change with minimised risk
 
 *   Test everything before deployment to production
 *   Test upgrade path too
+    *   Which services get restarted by upgrade
 
 
 <!-- .slide: data-state="normal" id="CI-approach" data-timing="120" -->
