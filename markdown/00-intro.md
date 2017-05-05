@@ -42,6 +42,8 @@
 <!-- .slide: data-state="normal" id="SAP-cloud-platform" data-menu-title="SAP cloud strategy" data-timing="30" -->
 # SAP Cloud Platform and OpenStack strategy
 
+* https://hcp.sap.com/index.html
+
 FIXME
 
 

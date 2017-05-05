@@ -38,6 +38,11 @@ SAP.
 *   4 SUSE engineers simultaneously logged in to production
     cloud
 
+Note:
+
+Direct access to production cloud => No latency caused by collecting
+logs
+
 
 <!-- .slide: data-state="blank-slide" class="full-screen" id="recent-outage-2-graph" data-menu-title="Load average graphs" data-timing="120" -->
 <img data-src="images/outage-load-avg.png"
@@ -55,3 +60,15 @@ SAP.
 *   Identified unusual peaks in NFS traffic
 *   Traced back to issue with NFS servers
 
+
+<!-- .slide: data-state="normal" id="other-benefits" data-menu-title="RCA" data-timing="120" -->
+# Other benefits
+
+*   More collaborative approach to design, e.g. API rate limiting
+*   Direct communication with stakeholders vs.
+    *   filing service requests (short-term)
+    *   filing feature requests (long-term)
+
+Note:
+Adam was able to discuss requirements with stakeholders
+in real-time during design phase.
