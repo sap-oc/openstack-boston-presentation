@@ -69,15 +69,21 @@ Note:
 
 ### Saturday morning maintenance window
 
-*   SUSE engineer (Adam) on hand <!-- .element: class="fragment" -->
-*   no console access, only screensharing <!-- .element: class="fragment" -->
-*   applied package updates and re-ran config. management <!-- .element: class="fragment" -->
-*   many VMs lost connectivity! <!-- .element: class="fragment" -->
+*   <!-- .element: class="fragment" -->
+    SUSE engineer (Adam) on hand
+*   <!-- .element: class="fragment" -->
+    no console access, only screensharing
+*   <!-- .element: class="fragment" -->
+    applied package updates and re-ran config. management
+*   <!-- .element: class="fragment" -->
+    many VMs lost connectivity!
 
-### Maintenance window extended <!-- .element: class="fragment" -->
+### Maintenance window extended
 
-*   several hours spent stabilising cloud <!-- .element: class="fragment" -->
-*   limited visibility to ops debugging <!-- .element: class="fragment" -->
+*   <!-- .element: class="fragment" -->
+    several hours spent stabilising cloud
+*   <!-- .element: class="fragment" -->
+    limited visibility to ops debugging
 
 Note:
 
@@ -91,47 +97,70 @@ assistance.
 ## Timeline of analysis
 
 *   Day 0 (Sat): maintenance window and outage
-*   Day 2 (Mon): SUSE support collected debug <!-- .element: class="fragment" -->
-*   Day 3: initial analysis with OVS experts <!-- .element: class="fragment" -->
-*   Day 4: call with SAP to share initial findings <!-- .element: class="fragment" -->
-*   Day 5: more analysis <!-- .element: class="fragment" -->
-*   Day 6: SUSE-only sync call <!-- .element: class="fragment" -->
-*   ... more analysis ... <!-- .element: class="fragment" -->
-*   Day 12: SUSE / SAP sync call <!-- .element: class="fragment" -->
-*   Day 20: final RCA delivered <!-- .element: class="fragment" -->
+*   <!-- .element: class="fragment" -->
+    Day 2 (Mon): SUSE support collected debug
+*   <!-- .element: class="fragment" -->
+    Day 3: initial analysis with OVS experts
+*   <!-- .element: class="fragment" -->
+    Day 4: call with SAP to share initial findings
+*   <!-- .element: class="fragment" -->
+    Day 5: more analysis
+*   <!-- .element: class="fragment" -->
+    Day 6: SUSE-only sync call
+*   <!-- .element: class="fragment" -->
+    ... more analysis ...
+*   <!-- .element: class="fragment" -->
+    Day 12: SUSE / SAP sync call
+*   <!-- .element: class="fragment" -->
+    Day 20: final RCA delivered
 
 
 <!-- .slide: data-state="normal" id="RCA" data-menu-title="RCA" data-timing="120" -->
 ## Root Cause Analysis
 
-*   Someone from dev team wanted to test a new feature <!-- .element: class="fragment" -->
-*   New feature relied on L2 population <!-- .element: class="fragment" -->
-*   Code change accidentally got into PTF <!-- .element: class="fragment" -->
-*   Neutron L2 population accidentally enabled on (some)
-    updated nodes <!-- .element: class="fragment" -->
+*   <!-- .element: class="fragment" -->
+    Someone from dev team wanted to test a new feature
+*   <!-- .element: class="fragment" -->
+    New feature relied on L2 population
+*   <!-- .element: class="fragment" -->
+    Code change accidentally got into PTF
+*  <!-- .element: class="fragment" -->
+    Neutron L2 population accidentally enabled on (some)
+    updated nodes
 
 
 <!-- .slide: data-state="normal" id="RCA-harad" data-menu-title="Why was it hard?" data-timing="120" -->
 ## Why was the Root Cause Analysis so hard?
 
-### Neutron L2 with OpenvSwitch very complex <!-- .element: class="fragment" -->
+### Neutron L2 with OpenvSwitch very complex
 
-*   Cryptic log messages <!-- .element: class="fragment" -->
-*   Inconsistent config not caught by validation <!-- .element: class="fragment" -->
-*   Resulting behaviour undefined and undocumented <!-- .element: class="fragment" -->
-    *    so hard to explain
+*   <!-- .element: class="fragment" -->
+    Cryptic log messages
+*   <!-- .element: class="fragment" -->
+    Inconsistent config not caught by validation
+*   <!-- .element: class="fragment" -->
+    Resulting behaviour undefined and undocumented
+    *    <!-- .element: class="fragment" -->
+         so hard to explain
 
-### SAP not involved enough in RCA <!-- .element: class="fragment" -->
+### SAP not involved enough in RCA
 
 
 <!-- .slide: data-state="normal" id="lessons-learnt" data-menu-title="Lessons learnt" data-timing="120" -->
 ## Lessons learnt
 
-*   Organisational structure not set up for success <!-- .element: class="fragment" -->
-*   Communication too chaotic <!-- .element: class="fragment" -->
-*   Time wasted collecting logs <!-- .element: class="fragment" -->
-*   Remote access critical <!-- .element: class="fragment" -->
-*   Pair debugging tools <!-- .element: class="fragment" -->
-*   PTF building process not good enough <!-- .element: class="fragment" -->
-*   (Reminder) OpenStack is complex <!-- .element: class="fragment fg-bright-red" -->
+*   <!-- .element: class="fragment" -->
+    Organisational structure not set up for success
+*   <!-- .element: class="fragment" -->
+    Communication too chaotic
+*   <!-- .element: class="fragment" -->
+    Time wasted collecting logs
+*   <!-- .element: class="fragment" -->
+    Remote access critical
+*   <!-- .element: class="fragment" -->
+    Pair debugging tools
+*   <!-- .element: class="fragment" -->
+    PTF building process not good enough
+*   <!-- .element: class="fragment fg-bright-red" -->
+    (Reminder) OpenStack is complex
 
