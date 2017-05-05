@@ -2,10 +2,16 @@
 
     #issues {
         .container {
+            display: flex;
+            flex-flow: row wrap;
+            justify-content: center;
+            align-items: top;
             height: 88%;
         }
 
         .item {
+            flex-basis: 30%;
+            flex-grow: 1;
             float: left;
             height: 45%;
             padding: 0.5em;
