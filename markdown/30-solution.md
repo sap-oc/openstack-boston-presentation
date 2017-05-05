@@ -123,7 +123,17 @@ Facilitate faster change with minimised risk
 *   Partially duplicate SUSE internal CI at SAP
 *   Focus on SAP stack
 
-FIXME: find icons for daily and gating
+<div class="container">
+  <div class="item fragment">
+      <img data-src="images/daily-clock.jpg" alt="daily clock" />
+  </div>
+  <div class="item fragment">
+      <img data-src="images/car-gate.png" alt="entry barrier"
+             style="height: 50%; margin-top: 12%;" />
+  </div>
+</div>
+
+Note:
 
 *   Run full CI on SAP hardware:
     *   Daily
