@@ -133,5 +133,5 @@ assistance.
 *   Remote access critical <!-- .element: class="fragment" -->
 *   Pair debugging tools <!-- .element: class="fragment" -->
 *   PTF building process not good enough <!-- .element: class="fragment" -->
-*   (Reminder) OpenStack is complex <!-- .element: class="fragment fg-red" -->
+*   (Reminder) OpenStack is complex <!-- .element: class="fragment fg-bright-red" -->
 
