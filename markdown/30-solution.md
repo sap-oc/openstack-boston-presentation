@@ -133,7 +133,34 @@ FIXME: find icons for daily and gating
 <!-- .slide: data-state="normal" id="CI-components" data-timing="120" -->
 # CI components
 
-FIXME: replace with OBS / Jenkins / NFS / GitHub icons
+<div class="container">
+  <div class="item">
+    <figure class="fragment">
+        <img data-src="images/GitHub-logo.jpg" alt="GitHub logo" />
+    </figure>
+  </div>
+  <div class="item">
+    <figure class="fragment">
+        <img data-src="images/OBS-logo.png" alt="OBS logo"
+             style="height: 50%; margin-top: 12%;" />
+    </figure>
+  </div>
+  <div class="item">
+    <figure class="fragment">
+        <a title="By The Jenkins project (http://jenkins-ci.org/) (https://wiki.jenkins-ci.org/display/JENKINS/Logo) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AJenkins_logo.svg">
+            <img alt="Jenkins logo" src="images/Jenkins_logo.svg"/>
+        </a>
+    </figure>
+  </div>
+  <div class="item">
+    <figure class="fragment">
+        <img data-src="images/filer.jpg" alt="NFS filer"
+             style="margin-top: -2em; max-height: 130%;" />
+    </figure>
+  </div>
+</div>
+
+Note:
 
 SAP has:
 
@@ -141,8 +168,6 @@ SAP has:
 *   Jenkins instance
 *   NFS servers serving SUSE OpenStack Cloud repositories
 *   separate NFS server (FIXME: what for?)
-
-Note:
 
 SUSE helped SAP with the initial setup, now all components are being
 integrated into SAP workflows.
