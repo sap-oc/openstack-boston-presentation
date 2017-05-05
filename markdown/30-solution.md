@@ -49,14 +49,37 @@ https://github.com/sap-oc/
 <!-- .slide: data-state="normal" id="communication" data-timing="120" -->
 # Improved communication
 
-TODO: replace with 4 large icons
+<div class="container">
+  <div class="item">
+    <figure class="fragment">
+        <img data-src="images/GitHub-logo.jpg" alt="GitHub logo" />
+    </figure>
+  </div>
+  <div class="item">
+    <figure class="fragment" style="margin-top: -1em">
+        <img data-src="images/Bugzilla-logo.png" alt="Bugzilla logo" />
+    </figure>
+  </div>
+  <div class="item">
+    <figure class="fragment">
+        <img data-src="images/Slack-logo.svg" alt="Slack logo"
+             style="height: 90%;" />
+    </figure>
+  </div>
+  <div class="item">
+    <figure class="fragment">
+        <img data-src="images/daily-standup.jpg" alt="daily standup"
+             style="margin-top: -2em; max-height: 130%;" />
+    </figure>
+  </div>
+</div>
+
+Note:
 
 *   All new activity tracked in GitHub
 *   Cc'ing SAP on relevant historical bugs in bugzilla
 *   Shared Slack channel
 *   Joint daily standups with all engineers
-
-Note:
 
 Previous SAP standups were only with support organisation, so any
 progress on engineering was either invisible or suffered from latency
