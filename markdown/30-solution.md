@@ -112,16 +112,25 @@ Benefits:
 
 Facilitate faster change with minimised risk
 
-*   Test everything before deployment to production
-*   Test upgrade path too
-    *   Which services get restarted by upgrade
+*   <!-- .element: class="fragment" -->
+    Test everything before deployment to production
+*   <!-- .element: class="fragment" -->
+    Test upgrade path too
+    *   Know which services get restarted by upgrade
+
+Note:
+
+Knowing which services get restarted helps us understand the full
+impact of the upgrade so we can plan maintenance windows better.
 
 
 <!-- .slide: data-state="normal" id="CI-approach" data-timing="120" -->
 # CI approach
 
-*   Partially duplicate SUSE internal CI at SAP
-*   Focus on SAP stack
+*   <!-- .element: class="fragment" -->
+    Partially duplicate SUSE internal CI at SAP
+*   <!-- .element: class="fragment" -->
+    Focus on SAP stack
 
 <div class="container">
   <div class="item fragment">
@@ -135,9 +144,9 @@ Facilitate faster change with minimised risk
 
 Note:
 
-*   Run full CI on SAP hardware:
-    *   Daily
-    *   Gating every PR
+Run full CI on SAP hardware:
+*   Daily
+*   Gating every PR
 
 
 <!-- .slide: data-state="normal" id="CI-components" data-timing="120" -->

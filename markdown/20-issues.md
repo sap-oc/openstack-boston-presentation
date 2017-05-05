@@ -78,7 +78,7 @@ Note:
 *   <!-- .element: class="fragment" -->
     many VMs lost connectivity!
 
-### Maintenance window extended
+### Maintenance window extended <!-- .element: class="fragment" -->
 
 *   <!-- .element: class="fragment" -->
     several hours spent stabilising cloud
@@ -100,7 +100,7 @@ assistance.
 *   <!-- .element: class="fragment" -->
     Day 2 (Mon): SUSE support collected debug
 *   <!-- .element: class="fragment" -->
-    Day 3: initial analysis with OVS experts
+    Day 3: initial analysis with OpenvSwitch experts
 *   <!-- .element: class="fragment" -->
     Day 4: call with SAP to share initial findings
 *   <!-- .element: class="fragment" -->
@@ -129,10 +129,10 @@ assistance.
     updated nodes
 
 
-<!-- .slide: data-state="normal" id="RCA-harad" data-menu-title="Why was it hard?" data-timing="120" -->
+<!-- .slide: data-state="normal" id="RCA-hard" data-menu-title="Why was it hard?" data-timing="120" -->
 ## Why was the Root Cause Analysis so hard?
 
-### Neutron L2 with OpenvSwitch very complex
+### Neutron L2 with OpenvSwitch very complex <!-- .element: class="fragment" -->
 
 *   <!-- .element: class="fragment" -->
     Cryptic log messages
@@ -143,7 +143,9 @@ assistance.
     *    <!-- .element: class="fragment" -->
          so hard to explain
 
-### SAP not involved enough in RCA
+### SAP not involved enough in RCA <!-- .element: class="fragment" -->
+
+### Other work distracting from RCA <!-- .element: class="fragment" -->
 
 
 <!-- .slide: data-state="normal" id="lessons-learnt" data-menu-title="Lessons learnt" data-timing="120" -->
@@ -164,3 +166,7 @@ assistance.
 *   <!-- .element: class="fragment fg-bright-red" -->
     (Reminder) OpenStack is complex
 
+Note:
+
+PTF building was done in an ad-hoc manner, with no rigorous
+testing.
