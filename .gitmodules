@@ -10,4 +10,6 @@
 	url = https://github.com/denehyg/reveal.js-menu
 [submodule "gitgraph.js"]
 	path = gitgraph.js
-	url = https://github.com/nicoespeon/gitgraph.js
+	#url = https://github.com/nicoespeon/gitgraph.js
+	url = https://github.com/aspiers/gitgraph.js
+	branch = boston

@@ -54,14 +54,19 @@ https://github.com/sap-oc/
 <!-- .slide: data-state="normal" id="github-branches-tags" data-timing="120" -->
 ## GitHub repository branches / tags
 
-<canvas id="gitGraph" style="height: 50%;" />
+<div style="margin-left: 10%; height: 40%;">
+  <canvas id="gitGraph"></canvas>
+</div>
 
-*   <!-- .element: class="fragment" -->
+*   <!-- .element: id="git-branches" class="fragment" -->
     Dedicated branches to queue changes for next deployment
-    to each prod/test cloud
-*   <!-- .element: class="fragment" -->
+    to each production / test cloud
+*   <!-- .element: id="git-tag-1" class="fragment" -->
     Tag per deployment per cloud
-    (typically one per maintenance window)
+*   <!-- .element: id="git-merge" class="fragment" -->
+    Changes get merged back into product
+*   <!-- .element: id="git-tag-2" class="fragment" -->
+    Typically one tag per maintenance window
 
 
 <!-- .slide: data-state="normal" id="communication" data-timing="120" -->
