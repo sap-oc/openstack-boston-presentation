@@ -1,3 +1,11 @@
+<!-- .slide: data-state="normal" id="Walldorf" data-menu-title="Walldorf meeting" data-timing="10" -->
+# 2-day joint meeting in Walldorf
+
+<img data-src="images/SAP-Walldorf.jpg"
+     style="margin-left: 10%;"
+     alt="SAP Walldorf" />
+
+
 <!-- .slide: data-state="section-break" id="solution" data-timing="5" -->
 # Our solution
 
@@ -12,25 +20,18 @@
 </div>
 
 
-<!-- .slide: data-state="normal" id="solution-overview" data-menu-title="Overview" data-timing="90" -->
-# Solution overview
-
-### 2-day joint meeting in Walldorf <!-- .element: class="fragment" -->
-
-Outcome: <!-- .element: class="fragment" -->
+<!-- .slide: data-state="normal" id="dev-approach" data-timing="60" -->
+# New approach to development
 
 *   <!-- .element: class="fragment" -->
-    Joint engineering team
-    *   Dedicated people from both sides
+    SAP-specific "friendly fork" of SUSE OpenStack Cloud
+*   <!-- .element: class="fragment" -->
+    All changes get ported back into SUSE OpenStack Cloud
 *   <!-- .element: class="fragment" -->
     Adopt agile practices
     *   Standups
     *   Testing and CI
     *   Backlog
-*   <!-- .element: class="fragment" -->
-    SAP-specific "friendly fork" of SUSE OpenStack Cloud
-*   <!-- .element: class="fragment" -->
-    Everything gets fed back into normal codebase
 
 Note: We needed to avoid long-term divergence from the SOC
 codebase to avoid doubling maintenance overheads.
