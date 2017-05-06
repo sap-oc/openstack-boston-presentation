@@ -2,6 +2,16 @@
 # Our solution
 
 
+<!-- .slide: data-state="normal" id="SAP-SUSE-solution" class="diagram-only" data-timing="120" -->
+## Dev/Ops model with SUSE
+
+<div class="diagrams">
+    <img class="services" data-src="images/suse_sap_devops.svg"
+         style="margin-left: 10%;"
+         alt="SAP / SUSE support pipeline" />
+</div>
+
+
 <!-- .slide: data-state="normal" id="solution-overview" data-menu-title="Overview" data-timing="90" -->
 # Solution overview
 
