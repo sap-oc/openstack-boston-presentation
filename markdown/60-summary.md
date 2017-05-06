@@ -6,10 +6,15 @@
     only way
     *   Other approaches worth considering
 *   <!-- .element: class="fragment" -->
-    Dedicated focus teams are expensive
-    *   but can steal elements from this approach
-    *   e.g. anyone can build CI which integrates
-        with vendor CI
+    Yes, dedicated focus teams are expensive
+*   <!-- .element: class="fragment" -->
+    but you can steal elements from this approach, e.g.
+    *   <!-- .element: class="fragment" -->
+        an open product issue tracker is more helpful than a closed one
+    *   <!-- .element: class="fragment" -->
+        anyone can build CI which integrates with vendor CI
+    *   <!-- .element: class="fragment" -->
+        anyone can fork an open product and submit changes back
 
 
 <!-- .slide: data-state="normal" id="hiring" data-timing="60" -->
