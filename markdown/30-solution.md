@@ -15,8 +15,8 @@ Outcome: <!-- .element: class="fragment" -->
 *   <!-- .element: class="fragment" -->
     Adopt agile practices
     *   Standups
-    *   Backlog
     *   Testing and CI
+    *   Backlog
 *   <!-- .element: class="fragment" -->
     SAP-specific "friendly fork" of SUSE OpenStack Cloud
 *   <!-- .element: class="fragment" -->
