@@ -34,16 +34,23 @@ https://github.com/sap-oc/
 *   <!-- .element: class="fragment" -->
     Hosts forks of product repositories
 *   <!-- .element: class="fragment" -->
+    Issue trackers in each repository
+*   <!-- .element: class="fragment" --> [GitHub
+    project](https://github.com/orgs/sap-oc/projects/1)
+    (kanban board)
+
+
+<!-- .slide: data-state="normal" id="github-branches-tags" data-timing="120" -->
+## GitHub repository branches / tags
+
+<canvas id="gitGraph" style="height: 50%;" />
+
+*   <!-- .element: class="fragment" -->
     Dedicated branches to queue changes for next deployment
     to each prod/test cloud
 *   <!-- .element: class="fragment" -->
     Tag per deployment per cloud
     (typically one per maintenance window)
-*   <!-- .element: class="fragment" -->
-    Issue trackers in each repository
-*   <!-- .element: class="fragment" --> [GitHub
-    project](https://github.com/orgs/sap-oc/projects/1)
-    (kanban board)
 
 
 <!-- .slide: data-state="normal" id="communication" data-timing="120" -->
