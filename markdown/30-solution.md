@@ -68,6 +68,11 @@ https://github.com/sap-oc/
 *   <!-- .element: id="git-tag-2" class="fragment" -->
     Typically one tag per maintenance window
 
+Note:
+
+Actually, we'll probably cherry-pick back into SOC rather than
+merge, but it's the same idea.
+
 
 <!-- .slide: data-state="normal" id="communication" data-timing="120" -->
 # Improved communication
