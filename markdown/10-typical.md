@@ -1,4 +1,4 @@
-<!-- .slide: data-state="section-break" id="typical-v-c-relationships" data-timing="5" -->
+<!-- .slide: data-state="section-break" id="typical-v-c-relationships" data-menu-title="Typical relationships" data-timing="5" -->
 # Typical Vendor-Customer Relationships
 
 

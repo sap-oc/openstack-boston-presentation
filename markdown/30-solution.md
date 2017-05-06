@@ -20,7 +20,7 @@
 </div>
 
 
-<!-- .slide: data-state="normal" id="dev-approach" data-timing="60" -->
+<!-- .slide: data-state="normal" id="dev-approach" data-menu-title="New dev approach" data-timing="60" -->
 # New approach to development
 
 *   <!-- .element: class="fragment" -->
@@ -37,7 +37,7 @@ Note: We needed to avoid long-term divergence from the SOC
 codebase to avoid doubling maintenance overheads.
 
 
-<!-- .slide: data-state="normal" id="github-org" data-timing="120" -->
+<!-- .slide: data-state="normal" id="github-org" data-menu-title="New GitHub org" data-timing="120" -->
 ## New shared GitHub organization
 
 https://github.com/sap-oc/
@@ -51,7 +51,7 @@ https://github.com/sap-oc/
     (kanban board)
 
 
-<!-- .slide: data-state="normal" id="github-branches-tags" data-timing="120" -->
+<!-- .slide: data-state="normal" id="github-branches-tags" data-menu-title="Branches / tags" data-timing="120" -->
 ## GitHub repository branches / tags
 
 <div style="margin-left: 10%; height: 40%;">
