@@ -31,6 +31,11 @@
          alt="SAP / SUSE support pipeline" />
 </div>
 
+Note:
+
+Management always wants to get involved, but the extra communication
+noise can hinder as well as help.
+
 
 <!-- .slide: data-state="normal" id="SAP-support-pipeline4" class="diagram-only" data-timing="20" -->
 ## Deja vu?
