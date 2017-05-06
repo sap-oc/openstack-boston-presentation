@@ -148,7 +148,7 @@ assistance.
 ### Other work distracting from RCA <!-- .element: class="fragment" -->
 
 
-<!-- .slide: data-state="normal" id="lessons-learnt" data-menu-title="Lessons learnt" data-timing="120" -->
+<!-- .slide: data-state="normal" id="lessons-learnt" data-menu-title="Lessons learnt" data-timing="60" -->
 ## Lessons learnt
 
 *   <!-- .element: class="fragment" -->

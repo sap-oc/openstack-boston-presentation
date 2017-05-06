@@ -2,7 +2,7 @@
 # Our solution
 
 
-<!-- .slide: data-state="normal" id="solution-overview" data-menu-title="Overview" data-timing="120" -->
+<!-- .slide: data-state="normal" id="solution-overview" data-menu-title="Overview" data-timing="90" -->
 # Solution overview
 
 ### 2-day joint meeting in Walldorf <!-- .element: class="fragment" -->
