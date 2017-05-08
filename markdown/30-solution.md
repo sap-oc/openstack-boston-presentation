@@ -199,12 +199,6 @@ Run full CI on SAP hardware:
         </a>
     </figure>
   </div>
-  <div class="item">
-    <figure class="fragment">
-        <img data-src="images/filer.jpg" alt="NFS filer"
-             style="margin-top: -2em; max-height: 130%;" />
-    </figure>
-  </div>
 </div>
 
 Note:

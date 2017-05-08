@@ -2,17 +2,17 @@
 # Summary
 
 *   <!-- .element: class="fragment" -->
-    Standard vendor/customer relationship is not the
+    Traditional vendor/customer relationship is not the
     only way
     *   Other approaches worth considering
 *   <!-- .element: class="fragment" -->
-    Yes, dedicated focus teams are expensive
+    Yes, dedicated joint focus teams are expensive
 *   <!-- .element: class="fragment" -->
     but you can steal elements from this approach, e.g.
     *   <!-- .element: class="fragment" -->
         an open product issue tracker is more helpful than a closed one
     *   <!-- .element: class="fragment" -->
-        anyone can build CI which integrates with vendor CI
+        vendor should allow any customer can integrate 3rd-party CI
     *   <!-- .element: class="fragment" -->
         anyone can fork an open product and submit changes back
 

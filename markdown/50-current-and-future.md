@@ -20,6 +20,10 @@
 *   <!-- .element: class="fragment" -->
     Monitoring (ELK etc.)
 *   <!-- .element: class="fragment" -->
-    Support multiple DCs / OpenStack installations
+    Centralised management
+    *   <!-- .element: class="fragment" -->
+        Roll out more clouds across multiple DCs
+    *   <!-- .element: class="fragment" -->
+        Regions / Availability Zones
 *   <!-- .element: class="fragment" -->
-    Improved operability
+    Other improvements to operability

@@ -16,9 +16,9 @@
         <h3 class="email"><a href="mailto:aspiers@suse.com">aspiers@suse.com</a></h3>
     </div>
     <div class="presenter presenter-2">
-        <h3 class="name">Marc Koderer</h3>
-        <h3 class="job-title">OpenStack Evangelist, SAP</h3>
-        <h3 class="email"><a href="mailto:marc.koderer@sap.com">marc.koderer@sap.com</a></h3>
+        <h3 class="name"><del>Marc Koderer</del> Boris Maeck</h3>
+        <h3 class="job-title">Cloud Architect, SAP</h3>
+        <h3 class="email"><a href="mailto:marc.koderer@sap.com">marc.koderer@sap.com</a> / <a href="mailto:boris@maeck@sap.com">boris@maeck@sap.com</a></h3>
     </div>
 </div>
 

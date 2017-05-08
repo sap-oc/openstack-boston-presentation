@@ -64,8 +64,10 @@ logs
 <!-- .slide: data-state="normal" id="other-benefits" data-menu-title="RCA" data-timing="120" -->
 # Other benefits
 
-*   More collaborative approach to design, e.g. API rate limiting
-*   Direct communication with stakeholders vs.
+*   <!-- .element: class="fragment" -->
+    More collaborative approach to design, e.g. API rate limiting
+*   <!-- .element: class="fragment" -->
+    Direct communication with stakeholders vs.
     *   filing service requests (short-term)
     *   filing feature requests (long-term)
 

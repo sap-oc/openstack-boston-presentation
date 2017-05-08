@@ -39,7 +39,7 @@ Note:
 
 
 <!-- .slide: data-state="normal" id="catastrophe" data-menu-title="Real world example" data-timing="120" -->
-## Real world <del>example</del>catastrophe
+## Real world <del>example</del> catastrophe
 
 <blockquote class="fragment">
 <p>
@@ -112,6 +112,8 @@ assistance.
 *   <!-- .element: class="fragment" -->
     Day 12: SUSE / SAP sync call
 *   <!-- .element: class="fragment" -->
+    ... more analysis ...
+*   <!-- .element: class="fragment" -->
     Day 20: final RCA delivered
 
 
@@ -141,7 +143,9 @@ assistance.
 *   <!-- .element: class="fragment" -->
     Resulting behaviour undefined and undocumented
     *    <!-- .element: class="fragment" -->
-         so hard to explain
+         hard to recognise
+    *    <!-- .element: class="fragment" -->
+         Google couldn't help
 
 ### SAP not involved enough in RCA <!-- .element: class="fragment" -->
 
