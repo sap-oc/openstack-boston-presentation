@@ -30,6 +30,7 @@
 *   Typical vendor-customer relationships
 *   Issues and escalation
 *   Our solution
+*   Results
 *   Future work
 *   Summary
 
