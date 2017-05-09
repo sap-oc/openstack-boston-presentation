@@ -13,6 +13,8 @@
     <li> <a href="https://www.suse.com/careers/">https://www.suse.com/careers/</a>
     <li> <a href="https://jobs.sap.com/">https://jobs.sap.com/</a>
   </ul>
+  <img class="logo SUSE" data-src="images/SUSE/SUSE-logo.svg" alt="SUSE logo" />
+  <img class="logo SAP" data-src="images/SAP-logo-2011.png" alt="SAP logo" />
 </div>
 
 

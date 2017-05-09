@@ -125,6 +125,21 @@
 
         .right {
             text-align: center;
+            width: 49%;
+
+            img.logo {
+                width: 49%;
+                float: left;
+            }
+
+            img.logo.SUSE {
+                margin-top: 21%;
+            }
+
+            img.logo.SAP {
+                margin-top: 15%;
+                margin-left: 2%;
+            }
         }
     }
 
