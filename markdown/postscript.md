@@ -2,7 +2,7 @@
 # Questions?
 
 <div class="qrcode" id="qrcode-talk-end"/>
-<h3><a href="https://sap-oc.github.io/openstack-boston-presentation/" target="_blank"
+<h3 style="text-align: center"><a href="https://sap-oc.github.io/openstack-boston-presentation/" target="_blank"
        id="talk-end">https://sap-oc.github.io/openstack-boston-presentation/</a></h3>
 
 
