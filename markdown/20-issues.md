@@ -1,4 +1,4 @@
-<!-- .slide: data-state="normal" id="issues" data-menu-title="Issues" data-timing="120" -->
+<!-- .slide: data-state="normal" id="issues" data-menu-title="Issues" data-timing="60" -->
 ## Issues with the standard support relationship
 
 <div class="container">
@@ -32,13 +32,13 @@ Note:
 
 *   Communication happening in multiple places:
     voice, email, IRC, phone, bugzilla, service request database
+*   Latency of communication channels
 *   Lack of transparency
-*   Latency of support channels
 *   Not enough agility in short-term
 *   Not enough influence over long-term roadmap
 
 
-<!-- .slide: data-state="normal" id="catastrophe" data-menu-title="Real world example" data-timing="120" -->
+<!-- .slide: data-state="normal" id="catastrophe" data-menu-title="Real world example" data-timing="40" -->
 ## Real world <del>example</del> catastrophe
 
 <blockquote class="fragment">
@@ -64,7 +64,7 @@ Note:
 [Why did OVS flows not get reestablished?](https://bugzilla.suse.com/show_bug.cgi?id=1013841)
 
 
-<!-- .slide: data-state="normal" id="outage" data-menu-title="Outage details" data-timing="120" -->
+<!-- .slide: data-state="normal" id="outage" data-menu-title="Outage details" data-timing="60" -->
 ## Details of maintenance and outage
 
 ### Saturday morning maintenance window
@@ -93,7 +93,7 @@ combined with lack of remote access it was difficult to provide
 assistance.
 
 
-<!-- .slide: data-state="normal" id="timeline" data-menu-title="Timeline" data-timing="120" -->
+<!-- .slide: data-state="normal" id="timeline" data-menu-title="Timeline" data-timing="80" -->
 ## Timeline of analysis
 
 *   Day 0 (Sat): maintenance window and outage
@@ -117,21 +117,21 @@ assistance.
     Day 20: final RCA delivered
 
 
-<!-- .slide: data-state="normal" id="RCA" data-menu-title="RCA" data-timing="120" -->
+<!-- .slide: data-state="normal" id="RCA" data-menu-title="RCA" data-timing="45" -->
 ## Root Cause Analysis
 
 *   <!-- .element: class="fragment" -->
-    Someone from dev team wanted to test a new feature
+    Someone from SAP/ dev team wanted to test a new feature
 *   <!-- .element: class="fragment" -->
     New feature relied on L2 population
 *   <!-- .element: class="fragment" -->
-    Code change accidentally got into PTF
+    Code change accidentally got into PTF (Program Temporary Fix) package
 *  <!-- .element: class="fragment" -->
     Neutron L2 population accidentally enabled on (some)
     updated nodes
 
 
-<!-- .slide: data-state="normal" id="RCA-hard" data-menu-title="Why was it hard?" data-timing="120" -->
+<!-- .slide: data-state="normal" id="RCA-hard" data-menu-title="Why was it hard?" data-timing="60" -->
 ## Why was the Root Cause Analysis so hard?
 
 ### Neutron L2 with OpenvSwitch very complex <!-- .element: class="fragment" -->
@@ -152,7 +152,7 @@ assistance.
 ### Other work distracting from RCA <!-- .element: class="fragment" -->
 
 
-<!-- .slide: data-state="normal" id="lessons-learnt" data-menu-title="Lessons learnt" data-timing="60" -->
+<!-- .slide: data-state="normal" id="lessons-learnt" data-menu-title="Lessons learnt" data-timing="40" -->
 ## Lessons learnt
 
 *   <!-- .element: class="fragment" -->
@@ -166,7 +166,7 @@ assistance.
 *   <!-- .element: class="fragment" -->
     Pair debugging tools
 *   <!-- .element: class="fragment" -->
-    PTF building process not good enough
+    PTF package building process not rigorous enough
 *   <!-- .element: class="fragment fg-bright-red" -->
     (Reminder) OpenStack is complex
 

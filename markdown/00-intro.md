@@ -40,13 +40,13 @@
 # OpenStack at SAP and SUSE
 
 
-<!-- .slide: data-state="normal" id="SAP-cloud-platform" class="full-screen" data-menu-title="SAP cloud strategy" data-timing="30" -->
+<!-- .slide: data-state="normal" id="SAP-cloud-platform" class="full-screen" data-menu-title="SAP cloud strategy" data-timing="50" -->
 <a href="https://hcp.sap.com/index.html">
     <img data-src="images/SAP-strategy-1.png" alt="SAP strategy" />
 </a>
 
 
-<!-- .slide: data-state="blank-slide" class="full-screen" id="SUSE-OpenStack-Cloud" data-menu-title="SUSE OpenStack Cloud" data-timing="30" -->
+<!-- .slide: data-state="blank-slide" class="full-screen" id="SUSE-OpenStack-Cloud" data-menu-title="SUSE OpenStack Cloud" data-timing="20" -->
 <img data-src="images/SOC.png" alt="SUSE OpenStack Cloud website" />
 
 Note:

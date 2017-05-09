@@ -1,8 +1,8 @@
-<!-- .slide: data-state="section-break" id="typical-v-c-relationships" data-menu-title="Typical relationships" data-timing="5" -->
+<!-- .slide: data-state="section-break" id="typical-v-c-relationships" data-menu-title="Typical relationships" data-timing="10" -->
 # Typical Vendor-Customer Relationships
 
 
-<!-- .slide: data-state="normal" id="SAP-support-pipeline" class="diagram-only" data-timing="40" -->
+<!-- .slide: data-state="normal" id="SAP-support-pipeline" class="diagram-only" data-timing="60" -->
 ## SAP/SUSE support
 
 <div class="diagrams">
@@ -12,7 +12,7 @@
 </div>
 
 
-<!-- .slide: data-state="normal" id="SAP-support-pipeline2" class="diagram-only" data-menu-title="SAP/SUSE support 2" data-timing="30" -->
+<!-- .slide: data-state="normal" id="SAP-support-pipeline2" class="diagram-only" data-menu-title="SAP/SUSE support 2" data-timing="60" -->
 ## SAP/SUSE support
 
 <div class="diagrams">
@@ -22,7 +22,7 @@
 </div>
 
 
-<!-- .slide: data-state="normal" id="SAP-support-pipeline3" class="diagram-only" data-menu-title="SAP/SUSE support 3" data-timing="30" -->
+<!-- .slide: data-state="normal" id="SAP-support-pipeline3" class="diagram-only" data-menu-title="SAP/SUSE support 3" data-timing="60" -->
 ## SAP/SUSE support
 
 <div class="diagrams">

@@ -1,4 +1,4 @@
-<!-- .slide: data-state="normal" id="Walldorf" data-menu-title="Walldorf meeting" data-timing="10" -->
+<!-- .slide: data-state="normal" id="Walldorf" data-menu-title="Walldorf meeting" data-timing="15" -->
 # 2-day joint meeting in Walldorf
 
 <img data-src="images/SAP-Walldorf.jpg"
@@ -20,7 +20,7 @@
 </div>
 
 
-<!-- .slide: data-state="normal" id="dev-approach" data-menu-title="New dev approach" data-timing="60" -->
+<!-- .slide: data-state="normal" id="dev-approach" data-menu-title="New dev approach" data-timing="40" -->
 # New approach to development
 
 *   <!-- .element: class="fragment" -->
@@ -37,21 +37,24 @@ Note: We needed to avoid long-term divergence from the SOC
 codebase to avoid doubling maintenance overheads.
 
 
-<!-- .slide: data-state="normal" id="github-org" data-menu-title="New GitHub org" data-timing="120" -->
-## New shared GitHub organization
+<!-- .slide: data-state="blank-screen" id="github-org" class="full-screen" data-menu-title="New GitHub org" data-timing="15" -->
+<a href="https://github.com/sap-oc/">
+    <img data-src="images/github-org.png" alt="GitHub sap-oc organisation" />
+</a>
 
-https://github.com/sap-oc/
+Note:
 
-*   <!-- .element: class="fragment" -->
-    Hosts forks of product repositories
-*   <!-- .element: class="fragment" -->
-    Issue trackers in each repository
-*   <!-- .element: class="fragment" --> [GitHub
-    project](https://github.com/orgs/sap-oc/projects/1)
-    (kanban board)
+*   Hosts forks of product repositories
+*   Issue trackers in each repository
 
 
-<!-- .slide: data-state="normal" id="github-branches-tags" data-menu-title="Branches / tags" data-timing="120" -->
+<!-- .slide: data-state="blank-screen" id="github-project" class="full-screen" data-menu-title="New GitHub org" data-timing="15" -->
+<a href="https://github.com/orgs/sap-oc/projects/1">
+    <img data-src="images/github-project.png" alt="GitHub sap-oc project board" />
+</a>
+
+
+<!-- .slide: data-state="normal" id="github-branches-tags" data-menu-title="Branches / tags" data-timing="70" -->
 ## GitHub repository branches / tags
 
 <div style="margin-left: 10%; height: 40%;">
@@ -74,7 +77,7 @@ Actually, we'll probably cherry-pick back into SOC rather than
 merge, but it's the same idea.
 
 
-<!-- .slide: data-state="normal" id="communication" data-timing="120" -->
+<!-- .slide: data-state="normal" id="communication" data-timing="60" -->
 # Improved communication
 
 <div class="container">
@@ -119,7 +122,7 @@ SUSE engineers now have much better understanding of SAP pain:
   first-hand from the people who suffer the pain
 
 
-<!-- .slide: data-state="normal" id="partner-access" data-menu-title="Partner access" data-timing="120" -->
+<!-- .slide: data-state="normal" id="partner-access" data-menu-title="Partner access" data-timing="25" -->
 # SAP accounts for partners
 
 <img data-src="images/RSA-token.png" alt="RSA token" />
@@ -135,7 +138,7 @@ Benefits:
 -   Efficient console-sharing via `screen(1)`
 
 
-<!-- .slide: data-state="normal" id="CI-goals" data-timing="120" -->
+<!-- .slide: data-state="normal" id="CI-goals" data-timing="40" -->
 # CI goals
 
 Facilitate faster change with minimised risk
@@ -152,7 +155,7 @@ Knowing which services get restarted helps us understand the full
 impact of the upgrade so we can plan maintenance windows better.
 
 
-<!-- .slide: data-state="normal" id="CI-approach" data-timing="120" -->
+<!-- .slide: data-state="normal" id="CI-approach" data-timing="60" -->
 # CI approach
 
 *   <!-- .element: class="fragment" -->
@@ -177,7 +180,7 @@ Run full CI on SAP hardware:
 *   Gating every PR
 
 
-<!-- .slide: data-state="normal" id="CI-components" data-timing="120" -->
+<!-- .slide: data-state="normal" id="CI-components" data-timing="60" -->
 # CI components
 
 <div class="container">
@@ -207,8 +210,6 @@ SAP has:
 
 *   Open Build Service instance
 *   Jenkins instance
-*   NFS servers serving SUSE OpenStack Cloud repositories
-*   separate NFS server (FIXME: what for?)
 
 SUSE helped SAP with the initial setup, now all components are being
 integrated into SAP workflows.
