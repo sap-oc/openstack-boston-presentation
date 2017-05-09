@@ -37,18 +37,18 @@ Note: We needed to avoid long-term divergence from the SOC
 codebase to avoid doubling maintenance overheads.
 
 
-<!-- .slide: data-state="blank-screen" id="github-org" class="full-screen" data-menu-title="New GitHub org" data-timing="15" -->
-<a href="https://github.com/sap-oc/">
-    <img data-src="images/github-org.png" alt="GitHub sap-oc organisation" />
-</a>
-
-Note:
+<!-- .slide: data-state="normal" id="github-org" data-menu-title="New GitHub org" data-timing="15" -->
+# New GitHub organisation
 
 *   Hosts forks of product repositories
 *   Issue trackers in each repository
 
+<a href="https://github.com/sap-oc/">
+    <img data-src="images/github-org.png" alt="GitHub sap-oc organisation" />
+</a>
 
-<!-- .slide: data-state="blank-screen" id="github-project" class="full-screen" data-menu-title="New GitHub org" data-timing="15" -->
+
+<!-- .slide: data-state="blank-screen" id="github-project" class="full-screen" data-menu-title="GitHub kanban project" data-timing="15" -->
 <a href="https://github.com/orgs/sap-oc/projects/1">
     <img data-src="images/github-project.png" alt="GitHub sap-oc project board" />
 </a>
