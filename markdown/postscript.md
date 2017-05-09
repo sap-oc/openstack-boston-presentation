@@ -1,9 +1,19 @@
 <!-- .slide: data-state="normal" id="questions" data-menu-title="Q & A" data-timing="300" -->
 # Questions?
 
-<div class="qrcode" id="qrcode-talk-end"/>
-<h3 style="text-align: center"><a href="https://sap-oc.github.io/openstack-boston-presentation/" target="_blank"
-       id="talk-end">https://sap-oc.github.io/openstack-boston-presentation/</a></h3>
+<div class="left">
+  <div class="qrcode" id="qrcode-talk-end">
+    <h3><a href="https://sap-oc.github.io/openstack-boston-presentation/" target="_blank"
+         id="talk-end">https://sap-oc.github.io/<br/>openstack-boston-presentation/</a></h3>
+  </div>
+</div>
+<div class="right">
+  <h2>We are (both) hiring!</h2>
+  <ul>
+    <li> <a href="https://www.suse.com/careers/">https://www.suse.com/careers/</a>
+    <li> <a href="https://jobs.sap.com/">https://jobs.sap.com/</a>
+  </ul>
+</div>
 
 
 <!-- .slide: data-menu-title="Disclaimers" id="disclaimers" data-state="green-bg" -->

@@ -113,6 +113,21 @@
     // import per-page SCSS files here
     //@import '_solutions';
 
+    #questions {
+        .left, .right {
+            width: 49%;
+            height: 80%;
+            float: left;
+            h3 {
+                text-align: center;
+            }
+        }
+
+        .right {
+            text-align: center;
+        }
+    }
+
     .contact-info {
         position: absolute;
         top: 80%;

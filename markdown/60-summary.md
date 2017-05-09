@@ -21,10 +21,3 @@
 # Win-win result for SAP, SUSE, and OpenStack!
 
 <img data-src="images/win-win.png" alt="win-win" />
-
-
-<!-- .slide: data-state="normal" id="hiring" data-timing="60" -->
-# We are (both) hiring!
-
-*   https://www.suse.com/careers/
-*   https://jobs.sap.com/
