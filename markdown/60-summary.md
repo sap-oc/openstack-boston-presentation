@@ -17,6 +17,12 @@
         anyone can fork an open product and submit changes back
 
 
+<!-- .slide: data-state="normal" id="win-win" data-menu-title="Win-win" data-timing="30" -->
+# Win-win result for SAP, SUSE, and OpenStack!
+
+<img data-src="images/win-win.png" alt="win-win" />
+
+
 <!-- .slide: data-state="normal" id="hiring" data-timing="60" -->
 # We are (both) hiring!
 
